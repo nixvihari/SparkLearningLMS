@@ -1,6 +1,6 @@
 ## Spark Learning LMS
 
-### Capstone Project on Learners Management System
+### Capstone Project on Learning Management System
 
 LMS Frontend App 
 https://github.com/nixvihari/lms
